@@ -32,9 +32,8 @@ A highly customizable calendar library for Android, powered by RecyclerView.
 
 It's very important to check out the sample app. Most techniques that you would want to implement are already implemented in the examples.
 
-Download the sample app [here](https://github.com/kizitonwose/CalendarView/releases/download/0.2.0/sample.apk)
 
-View the sample app's source code [here](https://github.com/kizitonwose/CalendarView/tree/master/sample)
+View the sample app's source code [here](https://github.com/sma6871/CalendarView/tree/master/sample)
 
 ## Usage
 
@@ -274,14 +273,14 @@ Add this to your app `build.gradle`:
 
 ```groovy
 dependencies {
-	implementation 'com.github.kizitonwose:CalendarView:<latest-version>'
+	implementation 'com.github.sma6871:CalendarView:<latest-version>'
 }
 ```
 **Note: `<latest-version>` value can be found on the JitPack badge above the preview images.**
 
 ## Contributing
 
-Found a bug? feel free to fix it and send a pull request or [open an issue](https://github.com/kizitonwose/CalendarView/issues).
+Found a bug? feel free to fix it and send a pull request or [open an issue](https://github.com/sma6871/CalendarView/issues).
 
 ## Inspiration
 
